@@ -12,6 +12,7 @@ function App() {
           <p>{welcome}</p>
         <img src={logo} />
         <p>{academy}</p>
+        <p>Hello world Raquel!</p>
         </div>
       </header>
     </div>
