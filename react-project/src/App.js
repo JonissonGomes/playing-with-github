@@ -13,6 +13,7 @@ function App() {
         <img src={logo} />
         <p>{academy}</p>
         <p>Hello world Raquel!</p>
+        <p>  Olá, mundo - Brendha </p>
         </div>
       </header>
     </div>
