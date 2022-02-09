@@ -20,7 +20,7 @@ function App() {
             <p>Olá Mundo, eu sou o lucian</p>
           </div>
 
-          <footer> Shared with group - 8</footer>
+          <footer> Shared with group - 8 Top</footer>
         </div>
       </header>
     </div>
