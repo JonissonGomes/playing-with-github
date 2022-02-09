@@ -16,6 +16,7 @@ function App() {
             <p>Hello, World! Carolina Ribeiro</p>
             <p>Hello world Raquel!</p>
             <p> Olá, mundo - Brendha </p>
+            <p> Hi, mundos - Jonisson Gomes</p>
           </div>
         </div>
       </header>
