@@ -19,6 +19,8 @@ function App() {
             <p> Hi, mundos - Jonisson Gomes</p>
             <p>Olá Mundo, eu sou o lucian</p>
           </div>
+
+          <footer> Shared with group - 8</footer>
         </div>
       </header>
     </div>
